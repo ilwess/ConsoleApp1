@@ -16,5 +16,10 @@ namespace ConsoleApp1
         {
 
         }
+
+        static void a()
+        {
+
+        }
     }
 }
